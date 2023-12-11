@@ -1,13 +1,4 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      HP
-#
-# Created:     11-12-2023
-# Copyright:   (c) HP 2023
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
+
 
 def cubes_of_even_numbers_for_loop(input_list):
     result = []
