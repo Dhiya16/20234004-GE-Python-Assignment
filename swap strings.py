@@ -21,9 +21,9 @@ def swap_first_n_chars(str1, str2, n):
     swapped_str1 = str2[:n] + str1[n:]
     swapped_str2 = str1[:n] + str2[n:]
 
-    print(f"After swapping the first {n} characters:")
-    print(f"String 1: {swapped_str1}")
-    print(f"String 2: {swapped_str2}")
+    print("After swapping the first {n} characters:")
+    print("String 1:" swapped_str1)
+    print("String 2:" swapped_str2)
 
 string1 = input("Enter the first string: ")
 string2 = input("Enter the second string: ")
